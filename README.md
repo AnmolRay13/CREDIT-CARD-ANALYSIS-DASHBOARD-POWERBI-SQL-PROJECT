@@ -101,7 +101,7 @@ The workflow includes **data cleaning, transformation, modeling, and visualizati
 
 ---
 
-##  Key Metrics
+##  KPI
 
 * Total Revenue: 55M
 * Total Interest Earned: 7.8M
@@ -129,5 +129,13 @@ To design and develop an end-to-end analytics solution for credit card data that
 ##  Conclusion
 
 This project showcases an end-to-end data analytics solution — transforming raw data into meaningful insights through data modeling, DAX calculations, and interactive dashboards, highlighting real-world business intelligence capabilities.
+
+---
+
+##  Author
+**Anmol Roy**
+
+###  Connect With Me
+- LinkedIn : www.linkedin.com/in/anmol-ray-7176a0397
 
 ---
