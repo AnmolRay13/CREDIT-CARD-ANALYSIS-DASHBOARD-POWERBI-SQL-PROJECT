@@ -133,7 +133,7 @@ This project showcases an end-to-end data analytics solution — transforming ra
 ---
 
 ##  Author
-**Anmol Roy**
+**Anmol Ray**
 
 ###  Connect With Me
 - LinkedIn : www.linkedin.com/in/anmol-ray-7176a0397
