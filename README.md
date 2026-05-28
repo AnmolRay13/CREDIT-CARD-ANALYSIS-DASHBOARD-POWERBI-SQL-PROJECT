@@ -2,10 +2,9 @@
 
 ## Project Overview
 
-This project is an end-to-end Data Analytics solution built using **MySQL, Power BI, and DAX**.
-The objective is to analyze **credit card transactions and customer behavior** and generate meaningful business insights through an interactive dashboard.
+This project is an interactive Credit Card Analytics Dashboard created using credit card transaction and customer datasets. The dashboard helps analyze customer behavior, transaction trends, revenue distribution, spending patterns, and state-wise performance.
 
-The workflow includes **data cleaning, transformation, modeling, and visualization**.
+Using MySQL, Power BI, Power Query, and DAX, the raw data was transformed into meaningful business insights through interactive dashboards and dynamic visualizations.
 
 ---
 
