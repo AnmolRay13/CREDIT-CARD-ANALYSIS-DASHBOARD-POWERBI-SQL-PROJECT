@@ -39,7 +39,7 @@ Using MySQL, Power BI, Power Query, and DAX, the raw data was transformed into m
   * `cust_detail` (Customer Data)
 
 * Imported data using SQL queries (`LOAD DATA INFILE`)
-
+* Connected MySQL with Power BI
 ---
 
 ### 3️. Data Cleaning & Transformation
